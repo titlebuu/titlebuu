@@ -13,7 +13,7 @@ I'm Continue developing knowledge and drive career path. Interested in computer 
 
 <br>
 
-# 📊 Github Stats
+# 📊 Github Status
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=titlebuu&layout=compact)](https://github.com/titlebuu/github-readme-stats)
 
 
